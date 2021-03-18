@@ -1,0 +1,2 @@
+# final-web 
+My site is about Cars, Planes and bikes. If you're new to car buying or haven't made a purchase in many years, it can be hard to know where to begin. How do you find the car that will exactly suit your needs for years to come? It just takes a little research and planning. When you know the kind of car you want, you can then decide whether you want to buy a new car, lease a new car, or buy a used car. There are all sorts of additional, specific types of bikes: tandem bikes, BMX bikes, fixed-gear bikes.
